@@ -1,0 +1,32 @@
+aid: viacep
+name: ViaCep
+description: "Brazil RESTful zip codes API"
+url: https://viacep.com.br
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Geocoding"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Geocoding
+  - Public APIs
+apis:
+  - name: ViaCep
+    description: "Brazil RESTful zip codes API"
+    humanURL: https://viacep.com.br
+    baseURL: https://viacep.com.br
+    tags:
+      - Geocoding
+    properties:
+      - type: Documentation
+        url: https://viacep.com.br
+common:
+  - type: Website
+    url: https://viacep.com.br
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
