@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://viacep.com.br
 common:
+  - type: DomainSecurity
+    url: security/viacep-domain-security.yml
   - type: Website
     url: https://viacep.com.br
   - type: PublicAPIsListing
