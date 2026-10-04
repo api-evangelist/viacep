@@ -39,7 +39,6 @@ apis:
   - name: ViaCep
     description: "Brazil RESTful zip codes API"
     humanURL: https://viacep.com.br
-    baseURL: https://viacep.com.br
     tags:
       - Geocoding
     properties:
